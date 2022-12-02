@@ -1,1 +1,1 @@
-# LinearRegressions-Stat
+# LinearRegressions-StatsMo
