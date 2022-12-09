@@ -1,3 +1,3 @@
 # LinearRegressions-StatsModels
 
-A
+A detai
