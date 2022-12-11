@@ -1,3 +1,3 @@
 # LinearRegressions-StatsModels
 
-A detailed and step-by-s
+A detailed and step-by-step gu
