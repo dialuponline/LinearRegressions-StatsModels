@@ -1,3 +1,3 @@
 # LinearRegressions-StatsModels
 
-A detailed and step-by-step guide to Linear Reg
+A detailed and step-by-step guide to Linear Regress
