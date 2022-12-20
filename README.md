@@ -1,3 +1,3 @@
 # LinearRegressions-StatsModels
 
-A detailed and step-by-step guide to Linear Regressions, implemented using StatsModel
+A detailed and step-by-step guide to Linear Regressions, implemented using StatsModels. If
