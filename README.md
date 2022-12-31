@@ -1,3 +1,3 @@
 # LinearRegressions-StatsModels
 
-A detailed and step-by-step guide to Linear Regressions, implemented using StatsModels. If you are interested in learning Python Data Science o
+A detailed and step-by-step guide to Linear Regressions, implemented using StatsModels. If you are interested in learning Python Data Science or M
